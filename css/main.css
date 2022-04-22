@@ -1,7 +1,6 @@
 html {
   font-family:'Helvetica', 'Arial';
-  background: url(bg.jpg) no-repeat center center fixed; 
-  background-size: cover;
+  background-color: #1F2937
   position: absolute;
   top: 0px;
   left: 0px;
